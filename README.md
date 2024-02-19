@@ -12,6 +12,7 @@ persona3Reload人格面具配置拆分：
 属性抗性分为四类，1：普通受击，2：减半，3：抵抗：4：反射，5：吸收
 
 例如下图所示的路西法（假设id位180）表示的抗性，那么可以配置成
+![Alt text](https://github.com/Singleangel233/persona3r/blob/main/picfile/1.jpg?raw=true "Optional title")
 
 | INT_id | INT_physicsSlash | INT_physicsPunch | INT_phyciscShoot | INT_fire | INT_ice | INT_bolt | INT_wind | INT_dark | INT_light|
 |--------|-------------------|-----------------|------------------|----------|---------|----------|----------|----------|----------|
